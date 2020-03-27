@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "125594058562",
+    "firebase_url": "https://staysafemelattur.firebaseio.com",
+    "project_id": "staysafemelattur",
+    "storage_bucket": "staysafemelattur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125594058562:android:46f66e23837ff8e9d512db",
+        "android_client_info": {
+          "package_name": "com.example.staysafemltr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125594058562-f7artoama486n9g6v21p25t1jt8av3mv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.staysafemltr",
+            "certificate_hash": "0dd73110c679e1162a2a0c5bee88924ec641f15e"
+          }
+        },
+        {
+          "client_id": "125594058562-t44ntu3ql2bie6unke3r7ksn0a42sfv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe8Es4i-Ph-rCqk3ENk_gCopUQkDVrIws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125594058562-t44ntu3ql2bie6unke3r7ksn0a42sfv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
